@@ -11,6 +11,7 @@ Nội dung: Làm quen với AI
 
 # App-Inventor
 Bài 01: Thực hành làm quen với App Inventor
+
 Bài 02: Tạo ứng dụng Voice Calculator
 
 # Tham khảo
