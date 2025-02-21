@@ -13,7 +13,7 @@ Nội dung: Làm quen với AI
 Bài 01: Thực hành làm quen với App Inventor
 Bài 02: Tạo ứng dụng Voice Calculator
 
-#Tham khảo
+# Tham khảo
 
-#Thông tin cá nhân
+# Thông tin cá nhân
 **Nguyen Thi Truc Vy**
